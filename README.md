@@ -33,7 +33,7 @@ The dashboard uses the `shopping_behavior_updated.csv` dataset, which contains r
 
 1. **Clone the repository** (if you haven't already):
    ```bash
-   git clone https://github.com/Mani2815/2547261_APP_Lab2.git
+   git clone https://github.com/Mani2815/shopping-behavior-dashboard.git
    cd 2547261_APP_Lab2
    ```
 

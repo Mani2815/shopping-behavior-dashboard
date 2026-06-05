@@ -46,7 +46,7 @@ The dashboard uses the `shopping_behavior_updated.csv` dataset, which contains r
 
 3. **Run the Dashboard**:
    ```bash
-   streamlit run 2547261_Lab2.py
+   streamlit run main.py
    ```
 
 4. **Access the Application**:
